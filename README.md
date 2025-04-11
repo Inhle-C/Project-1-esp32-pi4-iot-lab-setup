@@ -127,5 +127,5 @@ printf("Hello, Inhle Cele!\n");
 ## License
 This project is for educational purposes.
 
-Next Project: ESP32 LED Blinker 🔗
+Next Project: [ESP32 Sensor Data Logger](https://github.com/Inhle-C/Project-3-esp32-sensor-data-logger)  
 (To be uploaded as Part 2 of the series)
