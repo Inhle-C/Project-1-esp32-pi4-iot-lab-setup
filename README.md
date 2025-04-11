@@ -19,7 +19,23 @@ The goal is to prepare the hardware and environment for future embedded and IoT 
 
 ## Project Structure
 
-esp32-pi4-iot-setup/ ├── report.pdf # Lab report (required) ├── raspberry-pi-setup/ # Raspberry Pi setup notes and configs ├── esp32-hello-world/ # Lab 1.2: Hello World program │ ├── sdkconfig │ ├── CMakeLists.txt │ ├── README.md │ └── main/ │ ├── CMakeLists.txt │ └── main.c ├── esp32-blinky-led/ # Lab 1.3: Blinky LED program │ ├── sdkconfig │ ├── CMakeLists.txt │ ├── README.md │ └── main/ │ ├── CMakeLists.txt │ └── main.c
+esp32-pi4-iot-setup/  
+├── report.pdf # Lab report (required)  
+├── raspberry-pi-setup/ # Raspberry Pi setup notes and configs  
+├── esp32-hello-world/ # Lab 1.2: Hello World program  
+│ ├── sdkconfig  
+│ ├── CMakeLists.txt  
+│ ├── README.md  
+│ └── main/  
+│ ├── CMakeLists.txt  
+│ └── main.c  
+├── esp32-blinky-led/ # Lab 1.3: Blinky LED program  
+│ ├── sdkconfig  
+│ ├── CMakeLists.txt  
+│ ├── README.md  
+│ └── main/  
+│ ├── CMakeLists.txt  
+│ └── main.c  
 
 
 ## Setup Instructions
