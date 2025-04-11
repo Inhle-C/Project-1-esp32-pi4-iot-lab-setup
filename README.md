@@ -127,5 +127,5 @@ printf("Hello, Inhle Cele!\n");
 ## License
 This project is for educational purposes.
 
-Next Project: [ESP32 Sensor Data Logger](https://github.com/Inhle-C/Project-3-esp32-sensor-data-logger)  
+Next Project: [ESP32 Sensor Data Logger](https://github.com/Inhle-C/Project-2-esp32-debugging-sensor)  
 (To be uploaded as Part 2 of the series)
